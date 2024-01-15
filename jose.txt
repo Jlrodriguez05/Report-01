@@ -1,2 +1,4 @@
 Hola mundo!
-Hola mundo desde el navegador!!
+<<<<<<< HEAD
+Hola mundo desde el navega!
+nuevo cambio!
