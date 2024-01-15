@@ -2,3 +2,5 @@ Hola mundo!
 <<<<<<< HEAD
 Hola mundo desde el navega!
 nuevo cambio!
+
+nuevo cambio desde local para el navegador!
